@@ -1,2 +1,2 @@
 naam = 'Jeroen'
-print (f'hello ${naam}')
+print (f'hello {naam}')

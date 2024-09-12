@@ -17,6 +17,7 @@ exit()
 def som(getal1, getal2):
     return getal1 + getal2
 
+
 def verschil(getal1, getal2):
     return getal1 - getal2
 
